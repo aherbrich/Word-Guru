@@ -14,7 +14,7 @@ This is a simple "Word-checker" for the game "Word Guru"
 `German <https://play.google.com/store/apps/details?id=com.wordgames.wordconnect.de&hl=en>`__).
 The game went pretty viral in the last months (Mai - Juli 2017) so I thought I'd might code a little "solver" for it. 
 The main idea of "Word Guru" is to build words out of a set of predefined letters. 
-This can get tricky when there a lot of letters given and many words to find. 
+This can get tricky when there are a lot of letters given and many words to find. 
 The code I've wrote needs a dictionary of words to work (longer is better). 
 I've provided a set of German words that you can use as a dictionary. 
 If you're looking for a set of English words you might find some 
